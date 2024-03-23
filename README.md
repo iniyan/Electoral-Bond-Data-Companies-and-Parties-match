@@ -1,0 +1,1 @@
+This repository includes a Python script for analyzing election donation data, pinpointing company donations to political parties. The script reads from a CSV file, cleans and processes the data, and matches donations based on unique bond numbers. It tracks company donations to parties and vice versa, offering insights into election financing relationships.
